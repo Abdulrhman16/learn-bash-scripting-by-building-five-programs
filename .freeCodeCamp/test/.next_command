@@ -71,3 +71,4 @@ chmod +x countdown.sh
 whcih basj
 whcih bash
 which bash
+./countdown.sh
