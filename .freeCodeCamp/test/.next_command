@@ -56,3 +56,7 @@ __vsc_prompt_cmd_original
 --help
 echo --help
 man echo
+./q
+./questionnaire.sh
+./questionnaire.sh
+./questionnaire.sh
