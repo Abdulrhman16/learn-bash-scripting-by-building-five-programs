@@ -165,3 +165,5 @@ which bash
 /b
 ./bingo.sh
 printenv
+echo LANG
+echo $LANG
