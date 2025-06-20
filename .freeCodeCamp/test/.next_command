@@ -287,3 +287,5 @@ __vsc_prompt_cmd_original
 [[ $VAR == \?$ ]]
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
