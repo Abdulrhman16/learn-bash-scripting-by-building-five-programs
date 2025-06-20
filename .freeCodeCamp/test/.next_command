@@ -245,3 +245,21 @@ echo ${ARR[*]}
 declare -p
 declare -p ARR
 ./fortune.sh
+$(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
+echo $(( RANDOM % 5 + 1 ))
