@@ -312,3 +312,4 @@ type read
 type if
 typr then
 type then
+type bash
