@@ -266,3 +266,4 @@ echo $(( RANDOM % 5 + 1 ))
 help
 help function
 ./fortune.sh
+./fortune.sh
