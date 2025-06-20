@@ -164,3 +164,4 @@ chmod +x bingo.sh
 which bash
 /b
 ./bingo.sh
+printenv
