@@ -177,3 +177,4 @@ echo $I
 __vsc_prompt_cmd_original
 (( I++ ))
 echo $I
+help let
