@@ -277,3 +277,5 @@ help [[ expression ]]
 __vsc_prompt_cmd_original
 [[ 'hello world' =~ 'lo wor' ]]
 [[ 'hello world' =~ ^h ]]
+[[ 'hello world' =~ ^h+d$ ]]
+[[ 'hello world' =~ ^h.+d$ ]]
